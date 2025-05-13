@@ -1,0 +1,12 @@
+#!/home/kienngo/Desktop/School/Kì 2_Năm 3/Mật mã học cơ sở/BTL/Cryptography-project/polard_rho_attack/.env/bin/python3
+## -*- coding: utf-8 -*-
+##
+##  Jonathan Salwan - 2014-05-12 - ROPgadget tool
+##
+##  http://twitter.com/JonathanSalwan
+##  http://shell-storm.org/project/ROPgadget/
+##
+
+import ropgadget
+
+ropgadget.main()
